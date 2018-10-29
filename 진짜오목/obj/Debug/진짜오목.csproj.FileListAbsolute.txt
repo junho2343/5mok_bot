@@ -1,0 +1,20 @@
+C:\Users\playauto\source\repos\진짜오목\진짜오목\bin\Debug\진짜오목.exe.config
+C:\Users\playauto\source\repos\진짜오목\진짜오목\bin\Debug\진짜오목.exe
+C:\Users\playauto\source\repos\진짜오목\진짜오목\bin\Debug\진짜오목.pdb
+C:\Users\playauto\source\repos\진짜오목\진짜오목\obj\Debug\진짜오목.csprojAssemblyReference.cache
+C:\Users\playauto\source\repos\진짜오목\진짜오목\obj\Debug\진짜오목.Properties.Resources.resources
+C:\Users\playauto\source\repos\진짜오목\진짜오목\obj\Debug\진짜오목.csproj.GenerateResource.cache
+C:\Users\playauto\source\repos\진짜오목\진짜오목\obj\Debug\진짜오목.csproj.CoreCompileInputs.cache
+C:\Users\playauto\source\repos\진짜오목\진짜오목\obj\Debug\진짜오목.exe
+C:\Users\playauto\source\repos\진짜오목\진짜오목\obj\Debug\진짜오목.pdb
+C:\Users\playauto\source\repos\진짜오목\진짜오목\obj\Debug\진짜오목.Form1.resources
+C:\Users\playauto\Desktop\c# 공부\진짜오목\진짜오목\obj\Debug\진짜오목.csprojAssemblyReference.cache
+C:\Users\playauto\Desktop\c# 공부\진짜오목\진짜오목\obj\Debug\진짜오목.Form1.resources
+C:\Users\playauto\Desktop\c# 공부\진짜오목\진짜오목\obj\Debug\진짜오목.Properties.Resources.resources
+C:\Users\playauto\Desktop\c# 공부\진짜오목\진짜오목\obj\Debug\진짜오목.csproj.GenerateResource.cache
+C:\Users\playauto\Desktop\c# 공부\진짜오목\진짜오목\obj\Debug\진짜오목.csproj.CoreCompileInputs.cache
+C:\Users\playauto\Desktop\c# 공부\진짜오목\진짜오목\obj\Debug\진짜오목.exe
+C:\Users\playauto\Desktop\c# 공부\진짜오목\진짜오목\obj\Debug\진짜오목.pdb
+C:\Users\playauto\Desktop\c# 공부\진짜오목\진짜오목\bin\Debug\진짜오목.exe.config
+C:\Users\playauto\Desktop\c# 공부\진짜오목\진짜오목\bin\Debug\진짜오목.exe
+C:\Users\playauto\Desktop\c# 공부\진짜오목\진짜오목\bin\Debug\진짜오목.pdb
